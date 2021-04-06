@@ -23,6 +23,14 @@ There are different way to improve the accuracy of the model.
 
 The algorithms I will use:
 1. k-nearest neighbors (KNN)
-2. Decision Trees
+2. Decision Tree
 3. Naive Bayes
 
+For different types of data, I'll train all the 3 Algorithms on them, just to evaluate which one will work better.
+
+![download (1)](https://user-images.githubusercontent.com/70885585/113750697-c5537880-9728-11eb-850f-ed9445c8202b.png)
+
+# Conclusion
+1. Decision trees has higher higher accuracy. 
+2. Clothing is most popular product category.
+3. Allure Auto has most product in data.
