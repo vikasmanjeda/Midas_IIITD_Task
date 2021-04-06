@@ -9,5 +9,7 @@ https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEO
 
 # Approch to solve 
 Step 1. clean and process the data
+
 Step 2. Visualization the data.
+
 Step 3. Predict the model & measure the accuracy of the model.
